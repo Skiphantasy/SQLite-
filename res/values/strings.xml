@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">SSD Store App</string>
+    <string name="ssdtexttype">Seleccione SSD</string>
+    <string name="ssdtextAmount">Seleccione cantidad</string>
+    <string name="addbutton">Añadir a la cesta</string>
+    <string name="ssd_header">Nombre</string>
+    <string name="ssd_price_header">Unidades</string>
+    <string name="ssd_qu_header">Precio</string>
+    <string name="total">Total</string>
+    <string name="total_amount">0.00 €</string>
+    <string name="buy_button">Comprar</string>
+    <string name="accept_button">Aceptar</string>
+    <string name="name_lastname">Nombre y Apellidos</string>
+    <string name="receipt_cod">Código de Factura</string>
+    <string name="query_button">Consultar Factura</string>
+    <string name="refund_button">Devolver Producto</string>
+    <string name="enter_name">Introduce nombre</string>
+    <string name="enter_receipt">Introduce código de factura (numérico)</string>
+    <string name="menu_buttons">3</string>
+    <string name="spinners">2</string>
+    <string name="amount">10</string>
+    <string name="toast">Petición al proveedor. Stock Actualizado</string>
+    <string name="toast_rr">El código de factura debe ser numérico</string>
+    <string name="toast_update">Base de datos actualizada</string>
+    <string name="table_ssd">ssd</string>
+    <string name="table_items">items</string>
+    <string name="table_receipt">receipts</string>
+
+    <string-array name="ssdtypes">
+        <item>Samsung 850 PRO 128 GB</item>
+        <item>Samsung 850 PRO 256 GB</item>
+        <item>Samsung 850 PRO 512 GB</item>
+        <item>Samsung 850 PRO 1 TB</item>
+    </string-array>
+
+    <string-array name="ssdprices">
+        <item>97</item>
+        <item>145</item>
+        <item>280</item>
+        <item>537</item>
+    </string-array>
+</resources>
